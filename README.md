@@ -1,6 +1,6 @@
 # Find Trip Booking App Prototype UI
 
-####UI Prototype replicated from [Canva](https://www.canva.com/es_es/plantillas/EAEsEJncWzE-find-trip-booking-app-prototype/).
+***UI Prototype replicated from [Canva](https://www.canva.com/es_es/plantillas/EAEsEJncWzE-find-trip-booking-app-prototype/).***
 
 <img src="https://marketplace.canva.com/EAEsEJncWzE/1/0/739w/canva-find-trip-booking-app-prototype-9zBDbkkTUbU.jpg" alt="Prototype Image" height="600">
 
